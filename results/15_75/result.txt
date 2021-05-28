@@ -1,0 +1,7 @@
+HG4_PB_SVrefine2PBcRDovetail_3069 66041 22
+HG4_PB_SVrefine2Falcon1Dovetail_4181 63323 151
+Tot: 74012 Pos: 60067 Neg: 13945 TP: 50843 FP: 8552 FN: 9224 TN: 5393
+Recall:  0.85
+Precision:  0.86
+Accuracy:  0.81
+False discovery rate:  0.14
